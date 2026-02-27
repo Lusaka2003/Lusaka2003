@@ -1,4 +1,4 @@
-Hi, I'm Lusala 👋
+Hi, I'm Lusaka 👋
 
 🎓 CSE Student at BRAC University
 
