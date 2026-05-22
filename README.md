@@ -32,21 +32,21 @@ Beyond writing code, I serve as a **Student Tutor for Data Structures**, where I
 
 ### 📁 Featured Projects
 
-#### 🍱 [KhudaLagse - AI-Powered Meal Subscription Service](https://github.com/Lusaka2003)
+#### 🍱 [KhudaLagse - AI-Powered Meal Subscription Service](https://github.com/nak-dipto/KhudaLagse)
 * **Role:** Team Leader (Led architectural development & system analysis)
 * **Description:** Engineered an intelligent lunch/dinner subscription system leveraging automation algorithms for personalized meal tracking and recommendations
 * **Tech Stack:** MERN Stack, Python, Git
 * **Achievement:** 🎉 **Runner-Up (2nd Place)** at the Intra-University System Analysis and Design Lab Project Demonstration
 
-#### 🤰 [Mum.entum - AI Digital Health Companion](https://github.com/Lusaka2003)
+#### 🤰 [Mum.entum - AI Digital Health Companion](https://github.com/maidulislam-moon098/Mum.entum)
 * **Description:** Architected an AI-driven maternal wellness application built to calculate real-time health risk assessments and dynamically output custom nutritional pathways
 * **Tech Stack:** MERN Stack, Python AI Frameworks, Git
 
-#### 🧬 [Bioinformatics Pipeline for Cancer Mutation Analysis](https://github.com/Lusaka2003)
+#### 🧬 [Bioinformatics Pipeline for Cancer Mutation Analysis](https://github.com/Lusaka2003/Bioinformatics_Cancer_Detection_Pipeline)
 * **Description:** Developed a specialized computational data pipeline designed to ingest, process, and map raw DNA sequences to efficiently detect mutation indicators linked to cancer profiles
 * **Tech Stack:** Python
 
-#### 🚗 [NeedACar - On-Demand Vehicle Rental System](https://github.com/Lusaka2003)
+#### 🚗 [NeedACar - Car Rental Service](https://github.com/Lusaka2003/CSE370Project)
 * **Description:** Formulated a clean-coded, object-oriented reservation platform managing time-block structures and scheduling states allowing users to flawlessly lease vehicles hourly or daily.
 * **Tech Stack:** PHP, SQL Database Management
 
